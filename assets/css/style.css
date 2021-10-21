@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+section{
+    width:50%;
+    margin:10vh auto;
+    padding:0 2%;
+}
+
+legend{
+    background-color:aqua;
+    color:white;
+    padding:3vh 5vw 0 8vw;
+    border-radius: 10px 10px 0px 0px;
+}
+
+div{
+    text-align: left;
+    background-color:rgb(215, 212, 212);
+    width:90%;
+    padding:3vh 0;
+    margin:0 2vw;
+}
+span{
+    color: white;
+    background-color:rgb(79, 148, 191);
+    border-radius:50%;
+    position: absolute;
+    padding:0.1% 0.5%;
+    left:34.5vw;
+}
+label{
+    margin-left: 2.5vw;
+color:gray;
+}
+input{
+    padding:1vh 10vw;
+    margin-left: 2.5vw;
+}
